@@ -68,6 +68,30 @@ Based on the sample dataset:
 - `README.md` — Project documentation.
 - `HR Employee Analytics Dashboard Screenshot` — Screenshot of the Power BI HR & Employee Analytics Dashboard
 
+## Power BI Dashboard
+
+The Power BI dashboard provides a visual overview of employee demographics, workforce distribution, and departmental salary allocation.
+
+### Key Metrics
+- **Total Employees:** 10
+- **Average Salary:** 66,300
+- **Active Employees:** 9
+- **Inactive Employees:** 1
+
+### Dashboard Visualizations
+- Employee count by department
+- Gender distribution
+- Employment status distribution
+- Total salary by department
+
+### Key Insights
+- The Analytics department has the highest employee count, with 3 employees.
+- The Analytics department has the largest total payroll, at 218,000.
+- The workforce consists of 5 male and 5 female employees.
+- 90% of employees are active, while 10% are inactive.
+
+*Note: The dataset contains fictional employee records for educational and portfolio purposes.*
+
 ## How to Use
 1. Install MySQL Server and MySQL Workbench.
 2. Open the SQL script in MySQL Workbench.
