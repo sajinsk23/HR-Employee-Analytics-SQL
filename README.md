@@ -92,6 +92,11 @@ The Power BI dashboard provides a visual overview of employee demographics, work
 
 *Note: The dataset contains fictional employee records for educational and portfolio purposes.*
 
+### Dashboard Preview
+
+![HR Employee Analytics Dashboard](./HR%20Employee%20Analytics%20Dashboard%20Screenshot.png)
+
+
 ## How to Use
 1. Install MySQL Server and MySQL Workbench.
 2. Open the SQL script in MySQL Workbench.
