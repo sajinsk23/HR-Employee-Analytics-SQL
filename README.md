@@ -17,6 +17,7 @@ The project uses a sample dataset of 10 employees. SQL is used for data querying
 - MySQL
 - MySQL Workbench
 - SQL
+- Microsoft Power BI Desktop
 - Visual Studio Code
 
 ## Database Structure
