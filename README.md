@@ -1,4 +1,4 @@
-# HR & Employee Analytics Using SQL
+# HR & Employee Analytics | SQL & Power BI
 
 ## Project Overview
 This project explores employee data using SQL to identify insights related to salaries, departmental distribution, employee performance, and payroll allocation.
