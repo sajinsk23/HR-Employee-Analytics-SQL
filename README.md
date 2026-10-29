@@ -1,9 +1,9 @@
 # HR & Employee Analytics | SQL & Power BI
 
 ## Project Overview
-This project explores employee data using SQL to identify insights related to salaries, departmental distribution, employee performance, and payroll allocation.
+This project analyzes fictional employee data using MySQL and Microsoft Power BI to uncover insights into employee demographics, departmental distribution, salary trends, employment status, performance ratings, and payroll allocation.
 
-The project uses a fictional dataset of 10 employees and demonstrates SQL techniques commonly used in data analytics.
+The project uses a sample dataset of 10 employees. SQL is used for data querying and analysis, while Power BI is used to build an interactive dashboard that presents key HR metrics and departmental insights visually.
 
 ## Objectives
 - Analyse employee demographics and departmental distribution.
