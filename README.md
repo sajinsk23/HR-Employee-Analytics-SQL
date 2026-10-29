@@ -65,6 +65,7 @@ Based on the sample dataset:
 - `hr_analytics_rebuilt.sql` — Reconstructed SQL script containing database setup, sample data, and analysis queries.
 - `hr_analytics_queries.sql` — Original file currently containing the final analysis query.
 - `README.md` — Project documentation.
+- `HR Employee Analytics Dashboard Screenshot` — Screenshot of the Power BI HR & Employee Analytics Dashboard
 
 ## How to Use
 1. Install MySQL Server and MySQL Workbench.
